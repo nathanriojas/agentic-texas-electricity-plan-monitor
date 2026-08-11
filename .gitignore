@@ -24,3 +24,4 @@ playwright/.auth/
 Thumbs.db
 .vscode/
 .idea/
+*:Zone.Identifier
