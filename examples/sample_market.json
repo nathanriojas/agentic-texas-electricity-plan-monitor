@@ -1,0 +1,22 @@
+{
+  "plans": [
+    {
+      "plan_id": "example-fixed-12",
+      "provider": "Example Energy",
+      "name": "Example Fixed 12",
+      "type": "fixed",
+      "term_months": 12,
+      "published_price_500_cents": 11.3,
+      "published_price_1000_cents": 10.9,
+      "published_price_2000_cents": 10.7
+    },
+    {
+      "plan_id": "example-tou-12",
+      "provider": "Example Energy",
+      "name": "Example Free Nights 12",
+      "type": "time_of_use",
+      "term_months": 12,
+      "efl_assumed_free_share": 0.35
+    }
+  ]
+}

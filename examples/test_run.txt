@@ -1,0 +1,12 @@
+test_etf_reduces_switch_savings (test_comparison.ComparisonTests.test_etf_reduces_switch_savings) ... ok
+test_order_and_small_savings_change_do_not_matter (test_dedupe.DedupeTests.test_order_and_small_savings_change_do_not_matter) ... ok
+test_public_default_fails_closed (test_enrollment.EnrollmentTests.test_public_default_fails_closed) ... ok
+test_bill_credit_threshold (test_pricing.PricingTests.test_bill_credit_threshold) ... ok
+test_efl_assumption (test_pricing.PricingTests.test_efl_assumption) ... ok
+test_tou_replay (test_pricing.PricingTests.test_tou_replay) ... ok
+test_current_can_fail_stress (test_variable.VariableTests.test_current_can_fail_stress) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK
